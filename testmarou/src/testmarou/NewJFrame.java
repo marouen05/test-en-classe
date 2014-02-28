@@ -11,7 +11,7 @@ package testmarou;
 public class NewJFrame extends javax.swing.JFrame {
 
     
-    
+    int kaka;
     
     
     //lololololololololololololololololololo
